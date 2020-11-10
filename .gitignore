@@ -1,0 +1,5 @@
+private.key
+public.key
+passphrase.txt
+node_modules
+.DS_Store

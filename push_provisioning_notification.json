@@ -1,0 +1,29 @@
+{
+    "requestHeader": {
+      "protocolVersion": {
+        "major": 1,
+        "minor": 0,
+        "revision": 0
+      },
+      "requestId": "",
+      "requestTimestamp": ""
+    },
+    "pushContext":{
+      "serverSessionId":"",
+      "clientSessionId":""
+    },
+    "paymentAccount": {
+      "displayName": "Example Airline Miles Card",
+      "billingUserInformation": {
+        "name": "Google User",
+        "addressLine": ["1600 Amphitheatre Pkwy"],
+        "localityName": "Mountain View",
+        "administrativeAreaName": "CA",
+        "postalCodeNumber": "94043",
+        "countryCode": "US",
+        "phone": "6505551212"
+      },
+      "paymentCard": {}
+    },
+    "paymentInstrumentMaterial": []
+  }
